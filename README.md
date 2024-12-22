@@ -23,5 +23,5 @@ A simple CLI application for creating text files interactively. This Node.js scr
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/node-file-creator-cli.git
+   git clone https://github.com/aditya-tripathee/node-file-creator-cli.git
    cd node-file-creator-cli
