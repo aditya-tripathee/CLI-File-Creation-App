@@ -1,0 +1,12 @@
+{
+  "name": "cli-file-creation-app",
+  "version": "1.0.0",
+  "description": "CLI File Creation App",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Tripathi",
+  "license": "ISC"
+}
